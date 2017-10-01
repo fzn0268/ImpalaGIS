@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/fzn/development/impala-udf-samples",
+  "command": "/usr/bin/g++   -Dudfsample_EXPORTS   -g -ggdb -g3 -gdwarf-2 -fPIC   -o CMakeFiles/udfsample.dir/udf-sample.cc.o -c /home/fzn/development/impala-udf-samples/udf-sample.cc",
+  "file": "/home/fzn/development/impala-udf-samples/udf-sample.cc"
+},
+{
+  "directory": "/home/fzn/development/impala-udf-samples",
+  "command": "/usr/bin/g++   -Dudasample_EXPORTS   -g -ggdb -g3 -gdwarf-2 -fPIC   -o CMakeFiles/udasample.dir/uda-sample.cc.o -c /home/fzn/development/impala-udf-samples/uda-sample.cc",
+  "file": "/home/fzn/development/impala-udf-samples/uda-sample.cc"
+},
+{
+  "directory": "/home/fzn/development/impala-udf-samples",
+  "command": "/usr/bin/g++   -Dudasample_EXPORTS   -g -ggdb -g3 -gdwarf-2 -fPIC   -o CMakeFiles/udasample.dir/hyperloglog-uda.cc.o -c /home/fzn/development/impala-udf-samples/hyperloglog-uda.cc",
+  "file": "/home/fzn/development/impala-udf-samples/hyperloglog-uda.cc"
+},
+{
+  "directory": "/home/fzn/development/impala-udf-samples",
+  "command": "/usr/bin/g++   -Dudasample_EXPORTS   -g -ggdb -g3 -gdwarf-2 -fPIC   -o CMakeFiles/udasample.dir/variance-uda.cc.o -c /home/fzn/development/impala-udf-samples/variance-uda.cc",
+  "file": "/home/fzn/development/impala-udf-samples/variance-uda.cc"
+},
+{
+  "directory": "/home/fzn/development/impala-udf-samples",
+  "command": "/usr/bin/g++      -g -ggdb -g3 -gdwarf-2   -o CMakeFiles/udf-sample-test.dir/udf-sample-test.cc.o -c /home/fzn/development/impala-udf-samples/udf-sample-test.cc",
+  "file": "/home/fzn/development/impala-udf-samples/udf-sample-test.cc"
+},
+{
+  "directory": "/home/fzn/development/impala-udf-samples",
+  "command": "/usr/bin/g++      -g -ggdb -g3 -gdwarf-2   -o CMakeFiles/uda-sample-test.dir/uda-sample-test.cc.o -c /home/fzn/development/impala-udf-samples/uda-sample-test.cc",
+  "file": "/home/fzn/development/impala-udf-samples/uda-sample-test.cc"
+}
+]
